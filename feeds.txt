@@ -1,0 +1,393 @@
+################################
+# @cryoEM_Papers RSS feed list #
+################################
+# Feel free to edit this file
+# List of contributors: Frederic Poitevin, Cornelius Gati, ...
+# contact: cryoempapers@gmail.com or direct message on Twitter
+
+# Preprints
+# Arxiv
+http://export.arxiv.org/rss/cond-mat
+http://export.arxiv.org/rss/physics
+http://export.arxiv.org/rss/cs
+http://export.arxiv.org/rss/q-bio
+http://export.arxiv.org/rss/stat
+http://export.arxiv.org/rss/eess
+
+# Chemrxiv
+https://chemrxiv.org/rss/portal/chemrxiv
+# Biorxiv
+http://connect.biorxiv.org/biorxiv_xml.php?subject=all
+http://connect.biorxiv.org/biorxiv_xml.php?subject=molecular_biology
+http://connect.biorxiv.org/biorxiv_xml.php?subject=biochemistry
+http://connect.biorxiv.org/biorxiv_xml.php?subject=bioengineering
+http://connect.biorxiv.org/biorxiv_xml.php?subject=bioinformatics
+http://connect.biorxiv.org/biorxiv_xml.php?subject=biophysics
+http://connect.biorxiv.org/biorxiv_xml.php?subject=cancer_biology
+http://connect.biorxiv.org/biorxiv_xml.php?subject=cell_biology
+http://connect.biorxiv.org/biorxiv_xml.php?subject=developmental_biology
+http://connect.biorxiv.org/biorxiv_xml.php?subject=ecology
+http://connect.biorxiv.org/biorxiv_xml.php?subject=evolutionary_biology
+http://connect.biorxiv.org/biorxiv_xml.php?subject=genetics
+http://connect.biorxiv.org/biorxiv_xml.php?subject=immunology
+http://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology
+http://connect.biorxiv.org/biorxiv_xml.php?subject=neuroscience
+http://connect.biorxiv.org/biorxiv_xml.php?subject=pharmacology_and_toxicology
+http://connect.biorxiv.org/biorxiv_xml.php?subject=physiology
+http://connect.biorxiv.org/biorxiv_xml.php?subject=plant_biology
+http://connect.biorxiv.org/biorxiv_xml.php?subject=synthetic_biology
+
+
+# Journals
+# American Chemical Society
+# ACS Editor choice
+http://pubs.acs.org/editorschoice/feed/rss
+# Biochemistry
+http://pubs.acs.org/wls/alerts/rss/bichaw.rss
+# Journal of the American Chemical Society
+http://feeds.feedburner.com/acs/jacsat
+# Journal of Chemical Information & Modeling
+http://feeds.feedburner.com/acs/jcisd8
+# Journal of Physical Chemistry B
+http://feeds.feedburner.com/acs/jpcbfk
+# Journal of Physical Chemistry C
+http://feeds.feedburner.com/acs/jpccck
+# Journal of Physical Chemistry Letters
+http://feeds.feedburner.com/acs/jpclcd
+
+# American Institute of Physics
+# Applied Physics Letters
+https://aip.scitation.org/action/showFeed?type=etoc&feed=rss&jc=apl
+# Journal of Applied Physics
+https://aip.scitation.org/action/showFeed?type=etoc&feed=rss&jc=jap
+# Journal of Chemical Physics
+https://aip.scitation.org/action/showFeed?type=etoc&feed=rss&jc=jcp
+# Structural Dynamics
+https://aca.scitation.org/action/showFeed?type=etoc&feed=rss&jc=sdy
+# American Physical Society
+http://feeds.aps.org/rss/recent/prl.xml
+http://feeds.aps.org/rss/recent/prx.xml
+http://feeds.aps.org/rss/recent/prb.xml
+http://feeds.aps.org/rss/recent/prmaterials.xml
+# American Society for Biochemistry and Molecular Biology
+# Journal of Biological Chemistry
+http://feeds.feedburner.com/jbc/newsroom
+http://feeds.feedburner.com/JBC_Minireviews
+http://feeds.feedburner.com/JBC_AcceleratedCommunications
+http://feeds.feedburner.com/JBC_Reflections
+http://feeds.feedburner.com/JBC_Classics
+http://feeds.feedburner.com/JBC_Bioenergetics
+http://feeds.feedburner.com/JBC_CellBiology
+http://feeds.feedburner.com/JBC_ComputationalBiology
+http://feeds.feedburner.com/JBC_DnaAndChromosomes
+http://feeds.feedburner.com/JBC_Enzymology
+http://feeds.feedburner.com/JBC_GlycobiologyAndExtracellularMatrices
+http://feeds.feedburner.com/JBC_Immunology
+http://feeds.feedburner.com/JBC_Lipids
+http://feeds.feedburner.com/JBC_MembraneBiology
+http://feeds.feedburner.com/JBC_MethodsAndResources
+http://feeds.feedburner.com/JBC_Microbiology
+http://feeds.feedburner.com/JBC_MolecularBasesOfDisease
+http://feeds.feedburner.com/JBC_MolecularBiophysics
+http://feeds.feedburner.com/JBC_Neurobiology
+http://feeds.feedburner.com/JBC_PlantBiology
+http://feeds.feedburner.com/JBC_ProteinStructureAndFolding
+http://feeds.feedburner.com/JBC_ProteinSynthesisandDegradation
+http://feeds.feedburner.com/JBC_RNA
+http://feeds.feedburner.com/JBC_SignalTransduction
+http://feeds.feedburner.com/JBC_AdditionsandCorrections
+# American Society for Microbiology
+# Journal of Virology
+http://jvi.asm.org/rss/ahead.xml
+# Annual Reviews
+https://www.annualreviews.org/action/showFeed?jc=micro&type=etoc&feed=rss
+https://www.annualreviews.org/action/showFeed?jc=biochem&type=etoc&feed=rss
+https://www.annualreviews.org/action/showFeed?jc=bioeng&type=etoc&feed=rss
+https://www.annualreviews.org/action/showFeed?jc=biophys&type=etoc&feed=rss
+https://www.annualreviews.org/action/showFeed?jc=cancerbio&type=etoc&feed=rss
+https://www.annualreviews.org/action/showFeed?jc=cellbio&type=etoc&feed=rss
+https://www.annualreviews.org/action/showFeed?jc=chembioeng&type=etoc&feed=rss
+https://www.annualreviews.org/action/showFeed?jc=conmatphys&type=etoc&feed=rss
+https://www.annualreviews.org/action/showFeed?jc=food&type=etoc&feed=rss
+https://www.annualreviews.org/action/showFeed?jc=genet&type=etoc&feed=rss
+https://www.annualreviews.org/action/showFeed?jc=genom&type=etoc&feed=rss
+https://www.annualreviews.org/action/showFeed?jc=immunol&type=etoc&feed=rss
+https://www.annualreviews.org/action/showFeed?jc=marine&type=etoc&feed=rss
+https://www.annualreviews.org/action/showFeed?jc=matsci&type=etoc&feed=rss
+https://www.annualreviews.org/action/showFeed?jc=med&type=etoc&feed=rss
+https://www.annualreviews.org/action/showFeed?jc=neuro&type=etoc&feed=rss
+https://www.annualreviews.org/action/showFeed?jc=nutr&type=etoc&feed=rss
+https://www.annualreviews.org/action/showFeed?jc=pathmechdis&type=etoc&feed=rss
+https://www.annualreviews.org/action/showFeed?jc=pharmtox&type=etoc&feed=rss
+https://www.annualreviews.org/action/showFeed?jc=physchem&type=etoc&feed=rss
+https://www.annualreviews.org/action/showFeed?jc=physiol&type=etoc&feed=rss
+https://www.annualreviews.org/action/showFeed?jc=arplant&type=etoc&feed=rss
+https://www.annualreviews.org/action/showFeed?jc=statistics&type=etoc&feed=rss
+https://www.annualreviews.org/action/showFeed?jc=virology&type=etoc&feed=rss
+https://www.annualreviews.org/action/showFeed?jc=vision&type=etoc&feed=rss
+# Cell Press
+http://www.cell.com/cell/inpress.rss
+http://www.cell.com/cell/current.rss
+https://www.cell.com/chem/inpress.rss
+https://www.cell.com/chem/current.rss
+http://www.cell.com/structure/inpress.rss
+http://www.cell.com/structure/current.rss
+http://www.cell.com/current-biology/inpress.rss
+http://www.cell.com/current-biology/current.rss
+http://www.cell.com/molecular-cell/inpress.rss
+http://www.cell.com/molecular-cell/current.rss
+http://www.cell.com/biophysj/inpress.rss
+http://www.cell.com/biophysj/current.rss
+http://cell.com/chemistry-biology/rss
+http://www.cell.com/cell-host-microbe/inpress.rss
+http://www.cell.com/cell-host-microbe/current.rss
+http://rss.sciencedirect.com/publication/science/22111247
+# eLife
+https://elifesciences.org/rss/recent.xml
+https://elifesciences.org/rss/ahead.xml
+# Elsevier
+# there is more here: https://rss.sciencedirect.com/publication/science/ check it out
+http://rss.sciencedirect.com/publication/science/00108545
+http://rss.sciencedirect.com/publication/science/13877003
+http://rss.sciencedirect.com/publication/science/00108545
+http://rss.sciencedirect.com/publication/science/13871811
+https://www.journals.elsevier.com/journal-of-structural-biology/rss
+https://www.journals.elsevier.com/journal-of-molecular-biology/rss
+https://www.journals.elsevier.com/ultramicroscopy/rss
+https://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=249&channel-name=European+Biophysics+Journal
+http://rss.sciencedirect.com/publication/science/0959440X
+# Journal of Molecular Biology
+http://rss.sciencedirect.com/publication/science/0022283
+# EMBO Press
+# EMBO Journal
+http://emboj.embopress.org/rss/ahead.xml
+http://emboj.embopress.org/rss/recent.xml
+# EMBO Molecular Medicine
+http://embomolmed.embopress.org/rss
+# EMBO Reports
+http://embor.embopress.org/rss/recent.xml
+# Life Science Alliance
+http://www.life-science-alliance.org/rss/recent.xml
+
+# International Union of Crystallography	
+http://journals.iucr.org/a/rss10.xml
+http://journals.iucr.org/c/rss10.xml
+http://journals.iucr.org/d/rss10.xml
+http://journals.iucr.org/f/rss10.xml
+https://journals.iucr.org/m/rss10.xml
+https://www.iucr.org/news/rss-feeds/1.0/journal-issues
+# Nature Publishing Group
+http://www.nature.com/nature/current_issue/rss
+http://www.nature.com/nbt/current_issue/rss
+http://www.nature.com/ncb/current_issue/rss
+http://www.nature.com/ng/current_issue/rss
+http://www.nature.com/ni/current_issue/rss
+http://www.nature.com/nm/current_issue/
+http://www.nature.com/nmeth/current_issue/rss
+http://www.nature.com/neuro/current_issue/rss
+http://www.nature.com/nsmb/current_issue/rss
+http://www.nature.com/nrc/current_issue/rss
+http://www.nature.com/nrd/current_issue/rss
+http://www.nature.com/nrg/current_issue/rss
+http://www.nature.com/nri/current_issue/rss
+http://www.nature.com/nrmicro/current_issue/rss
+http://www.nature.com/nrm/current_issue/rss
+http://www.nature.com/nrn/current_issue/rss
+http://www.nature.com/bjp/journal/vaop/ncurrent/rss.rdf
+http://www.nature.com/emboj/journal/vaop/ncurrent/rss.rdf
+http://www.nature.com/embor/journal/vaop/ncurrent/rss.rdf
+http://www.nature.com/gene/journal/vaop/ncurrent/rss.rdf
+http://www.nature.com/mp/journal/vaop/ncurrent/rss.rdf
+http://www.nature.com/msb/journal/v1/n1/rss.rdf
+http://www.nature.com/npp/journal/vaop/ncurrent/rss.rdf
+http://www.nature.com/tpj/journal/vaop/ncurrent/rss.rdf
+http://feeds.nature.com/nature/rss/current
+http://feeds.nature.com/nchem/rss/current
+http://feeds.nature.com/nchembio/rss/current
+http://feeds.nature.com/nenergy/rss/current
+http://feeds.nature.com/nmat/rss/current
+http://feeds.nature.com/nmicrobiol/rss/current
+http://feeds.nature.com/nnano/rss/current
+http://feeds.nature.com/nphoton/rss/current
+http://feeds.nature.com/nphys/rss/current
+http://feeds.nature.com/nplants/rss/current
+http://feeds.nature.com/nprot/rss/current
+http://feeds.nature.com/ncomms/rss/current
+http://feeds.nature.com/commsbio/rss/current
+http://feeds.nature.com/commschem/rss/current
+http://feeds.nature.com/commsphys/rss/current
+http://feeds.nature.com/natcatal/rss/current
+http://feeds.nature.com/natrevchem/rss/current
+http://feeds.nature.com/natrevmats/rss/current
+http://feeds.nature.com/icb/rss/current
+http://feeds.nature.com/ismej/rss/current
+http://feeds.feedburner.com/ja/rss/current
+http://feeds.nature.com/lsa/rss/current
+http://feeds.nature.com/micronano/rss/current
+http://feeds.nature.com/ncomms/rss/current
+http://feeds.nature.com/npj2dmaterials/rss/current
+http://feeds.nature.com/npjamd/rss/current
+http://feeds.nature.com/npjcompumats/rss/current
+http://feeds.nature.com/npjflexelectron/rss/current
+http://feeds.nature.com/npjmatdeg/rss/current
+http://feeds.nature.com/npjparkd/rss/current
+http://feeds.nature.com/npjquantmats/rss/current
+http://feeds.nature.com/npjscifood/rss/current
+http://feeds.nature.com/npjsba/rss/current
+http://feeds.nature.com/sdata/rss/current
+http://feeds.nature.com/srep/rss/current
+http://feeds.nature.com/sigtrans/rss/current
+# Oxford University Press
+# needs clean-up
+https://academic.oup.com/rss/site_5127/3091.xml
+https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml
+https://academic.oup.com/rss/site_5127/OpenAccess.xml
+https://academic.oup.com/rss/site_5225/3092.xml
+https://academic.oup.com/rss/site_5139/3001.xml
+https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml
+https://academic.oup.com/rss/site_5139/OpenAccess.xml
+https://academic.oup.com/rss/site_5141/3003.xml
+https://academic.oup.com/rss/site_5141/advanceAccess_3003.xml
+https://academic.oup.com/rss/site_5141/OpenAccess.xml
+https://academic.oup.com/rss/site_5275/3141.xml
+https://academic.oup.com/rss/site_5275/advanceAccess_3141.xml
+https://academic.oup.com/rss/site_5275/OpenAccess.xml
+https://academic.oup.com/rss/site_5383/3244.xml
+https://academic.oup.com/rss/site_5383/advanceAccess_3244.xml
+https://academic.oup.com/rss/site_5383/OpenAccess.xml
+https://academic.oup.com/rss/site_5385/3246.xml
+https://academic.oup.com/rss/site_5385/advanceAccess_3246.xml
+https://academic.oup.com/rss/site_5385/OpenAccess.xml
+https://academic.oup.com/rss/site_5386/3247.xml
+https://academic.oup.com/rss/site_5386/advanceAccess_3247.xml
+https://academic.oup.com/rss/site_5386/OpenAccess.xml
+https://academic.oup.com/rss/site_5387/3248.xml
+https://academic.oup.com/rss/site_5387/advanceAccess_3248.xml
+https://academic.oup.com/rss/site_5387/OpenAccess.xml
+https://academic.oup.com/rss/site_5281/3147.xml
+https://academic.oup.com/rss/site_5281/advanceAccess_3147.xml
+https://academic.oup.com/rss/site_5281/OpenAccess.xml
+https://academic.oup.com/rss/site_5163/3026.xml
+https://academic.oup.com/rss/site_5163/advanceAccess_3026.xml
+https://academic.oup.com/rss/site_5163/OpenAccess.xml
+https://academic.oup.com/rss/site_5124/3030.xml
+https://academic.oup.com/rss/site_5124/advanceAccess_3030.xml
+https://academic.oup.com/rss/site_5124/OpenAccess.xml
+https://academic.oup.com/rss/site_5289/3155.xml
+https://academic.oup.com/rss/site_5289/advanceAccess_3155.xml
+https://academic.oup.com/rss/site_5289/OpenAccess.xml
+https://academic.oup.com/rss/site_5294/3160.xml
+https://academic.oup.com/rss/site_5294/advanceAccess_3160.xml
+https://academic.oup.com/rss/site_5294/OpenAccess.xml
+https://academic.oup.com/rss/site_5390/3251.xml
+https://academic.oup.com/rss/site_5390/advanceAccess_3251.xml
+https://academic.oup.com/rss/site_5390/OpenAccess.xml
+https://academic.oup.com/rss/site_5313/3179.xml
+https://academic.oup.com/rss/site_5313/advanceAccess_3179.xml
+https://academic.oup.com/rss/site_5313/OpenAccess.xml
+https://academic.oup.com/rss/site_5324/3190.xml
+https://academic.oup.com/rss/site_5324/advanceAccess_3190.xml
+https://academic.oup.com/rss/site_5324/OpenAccess.xml
+https://academic.oup.com/rss/site_5325/3191.xml
+https://academic.oup.com/rss/site_5325/advanceAccess_3191.xml
+https://academic.oup.com/rss/site_5325/OpenAccess.xml
+https://academic.oup.com/rss/site_5336/3202.xml
+https://academic.oup.com/rss/site_5336/advanceAccess_3202.xml
+https://academic.oup.com/rss/site_5336/OpenAccess.xml
+https://academic.oup.com/rss/site_5339/3205.xml
+https://academic.oup.com/rss/site_5339/advanceAccess_3205.xml
+https://academic.oup.com/rss/site_5339/OpenAccess.xml
+https://academic.oup.com/rss/site_5233/3101.xml
+https://academic.oup.com/rss/site_5233/advanceAccess_3101.xml
+https://academic.oup.com/rss/site_5233/OpenAccess.xml
+https://academic.oup.com/rss/site_5346/3212.xml
+https://academic.oup.com/rss/site_5346/advanceAccess_3212.xml
+https://academic.oup.com/rss/site_5346/OpenAccess.xml
+https://academic.oup.com/rss/site_5505/3366.xml
+https://academic.oup.com/rss/site_5505/advanceAccess_3366.xml
+https://academic.oup.com/rss/site_5505/OpenAccess.xml
+https://academic.oup.com/rss/site_5420/3281.xml
+https://academic.oup.com/rss/site_5420/advanceAccess_3281.xml
+https://academic.oup.com/rss/site_5420/OpenAccess.xml
+# PLoS
+https://journals.plos.org/plosone/feed/atom
+http://feeds.plos.org/plosbiology/NewArticles
+http://feeds.plos.org/ploscompbiol/NewArticles
+# PNAS
+http://feeds.feedburner.com/pnas/SMZM
+http://feeds.feedburner.com/pnas/UJrK
+http://feeds.feedburner.com/Pnas-RssFeedOfEarlyEditionArticles
+http://feeds.feedburner.com/pnas/SignificanceStatements
+# Royal society
+http://rstb.royalsocietypublishing.org/rss/current.xml
+http://rstb.royalsocietypublishing.org/rss/recent.xml
+http://rspb.royalsocietypublishing.org/rss/current.xml
+http://rspb.royalsocietypublishing.org/rss/recent.xml
+http://rsob.royalsocietypublishing.org/rss/current.xml
+http://rsob.royalsocietypublishing.org/rss/recent.xml
+http://rsbl.royalsocietypublishing.org/rss/current.xml
+http://rsbl.royalsocietypublishing.org/rss/recent.xml
+http://rsta.royalsocietypublishing.org/rss/current.xml
+http://rsta.royalsocietypublishing.org/rss/recent.xml
+http://rspa.royalsocietypublishing.org/rss/current.xml
+http://rspa.royalsocietypublishing.org/rss/recent.xml
+http://rsos.royalsocietypublishing.org/rss/current.xml
+http://rsos.royalsocietypublishing.org/rss/recent.xml
+http://rsif.royalsocietypublishing.org/rss/current.xml
+http://rsif.royalsocietypublishing.org/rss/recent.xml
+http://rsfs.royalsocietypublishing.org/rss/current.xml
+http://rsfs.royalsocietypublishing.org/rss/recent.xml
+http://rsnr.royalsocietypublishing.org/rss/current.xml
+http://rsnr.royalsocietypublishing.org/rss/recent.xml
+http://rsbm.royalsocietypublishing.org/rss/current.xml
+http://rsbm.royalsocietypublishing.org/rss/recent.xml
+http://feeds.rsc.org/rss/cy
+http://feeds.rsc.org/rss/cc
+http://feeds.rsc.org/rss/sc
+http://feeds.rsc.org/rss/cs
+http://feeds.rsc.org/rss/ce
+http://feeds.rsc.org/rss/dt
+http://feeds.rsc.org/rss/ee
+http://feeds.rsc.org/rss/en
+http://feeds.rsc.org/rss/fd
+http://feeds.rsc.org/rss/gc
+http://feeds.rsc.org/rss/ta
+http://feeds.rsc.org/rss/tb
+http://feeds.rsc.org/rss/tc
+http://feeds.rsc.org/rss/nr
+http://feeds.rsc.org/rss/nj
+http://feeds.rsc.org/rss/cp
+http://feeds.rsc.org/rss/sm
+# Science - AAAS
+http://advances.sciencemag.org/rss/current.xml
+http://science.sciencemag.org/rss/express.xml
+http://www.sciencemag.org/rss/current.xml
+http://stke.sciencemag.org/rss/current.xml
+# SIAM journals
+https://epubs.siam.org/action/showFeed?ui=0&mi=8vwill&ai=s9&jc=mmsubt&type=etoc&feed=rss
+https://epubs.siam.org/action/showFeed?ui=0&mi=8vwill&ai=5dk&jc=sjaabq&type=etoc&feed=rss
+https://epubs.siam.org/action/showFeed?ui=0&mi=8vwill&ai=sb&jc=sjaday&type=etoc&feed=rss
+https://epubs.siam.org/action/showFeed?ui=0&mi=8vwill&ai=s3&jc=smjmap&type=etoc&feed=rss
+https://epubs.siam.org/action/showFeed?ui=0&mi=8vwill&ai=sa&jc=sjdmec&type=etoc&feed=rss
+https://epubs.siam.org/action/showFeed?ui=0&mi=8vwill&ai=sd&jc=sjisbi&type=etoc&feed=rss
+https://epubs.siam.org/action/showFeed?ui=0&mi=8vwill&ai=s7&jc=sjmael&type=etoc&feed=rss
+https://epubs.siam.org/action/showFeed?ui=0&mi=8vwill&ai=s6&jc=sjope8&type=etoc&feed=rss
+https://epubs.siam.org/action/showFeed?ui=0&mi=8vwill&ai=se&jc=sjoce3&type=etoc&feed=rss
+https://epubs.siam.org/action/showFeed?ui=0&mi=8vwill&ai=s5&jc=siread&type=etoc&feed=rss
+# Wiley
+https://onlinelibrary.wiley.com/action/showFeed?jc=15475905&type=etoc&feed=rss
+https://onlinelibrary.wiley.com/action/showFeed?jc=15214095&type=etoc&feed=rss
+https://onlinelibrary.wiley.com/action/showFeed?jc=16163028&type=etoc&feed=rss
+https://onlinelibrary.wiley.com/action/showFeed?jc=16136829&type=etoc&feed=rss
+https://onlinelibrary.wiley.com/action/showFeed?jc=16146840&type=etoc&feed=rss
+https://onlinelibrary.wiley.com/action/showFeed?jc=15213773&type=etoc&feed=rss
+https://onlinelibrary.wiley.com/action/showFeed?jc=15213765&type=etoc&feed=rss
+https://onlinelibrary.wiley.com/action/showFeed?jc=1861471x&type=etoc&feed=rss
+https://onlinelibrary.wiley.com/action/showFeed?jc=1096987x&type=etoc&feed=rss
+https://onlinelibrary.wiley.com/action/showFeed?jc=21926506&type=etoc&feed=rss
+https://onlinelibrary.wiley.com/action/showFeed?jc=14397641&type=etoc&feed=rss
+https://onlinelibrary.wiley.com/action/showFeed?jc=10990682c&type=etoc&feed=rss
+https://onlinelibrary.wiley.com/action/showFeed?jc=23656549&type=etoc&feed=rss
+# Protein Science
+http://www3.interscience.wiley.com/rss/journal/121502357
+

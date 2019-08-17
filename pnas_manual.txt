@@ -1,0 +1,12 @@
+# We manually check PNAS Latest articles here:
+# http://www.pnas.org/content/early/recent?
+# Articles of interest are 
+# - manually checked if already posted in posted.dat
+# - if needed, manually tweeted by the bot.
+# - if needed, their url link is added manually to posted.dat
+# We keep track of them here.
+# last update: 9/18/18
+# oldest date checked: 9/1/18
+http://www.pnas.org/content/early/2018/09/05/1805651115
+http://www.pnas.org/content/early/2018/09/13/1811237115
+http://www.pnas.org/content/early/2018/09/14/1810927115
