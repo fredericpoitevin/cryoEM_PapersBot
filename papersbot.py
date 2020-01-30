@@ -42,10 +42,12 @@ regex = re.compile(r"""
     | scanning.electron.cryomicroscopy
     | transmission.electron.cryomicroscopy
     | cryo-fib
-    | correlated.ligth[- ]electron.microscopy
+    | FIB-SEM
+    | correlated.light[- ]electron.microscopy
     | single.particle.analysis
     | sub-?tomogram.averaging
     | relion3
+    | micro-?ED
   )
   """, re.IGNORECASE | re.VERBOSE)
 
