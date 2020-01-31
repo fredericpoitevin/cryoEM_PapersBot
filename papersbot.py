@@ -42,7 +42,7 @@ regex = re.compile(r"""
     | scanning.electron.cryomicroscopy
     | transmission.electron.cryomicroscopy
     | cryo-fib
-    | FIB-SEM
+    | cryo[- ]?FIB-SEM
     | correlated.light[- ]electron.microscopy
     | single.particle.analysis
     | sub-?tomogram.averaging
