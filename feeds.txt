@@ -152,6 +152,7 @@ http://rss.sciencedirect.com/publication/science/13877003
 http://rss.sciencedirect.com/publication/science/00108545
 http://rss.sciencedirect.com/publication/science/13871811
 https://www.journals.elsevier.com/journal-of-structural-biology/rss
+https://www.journals.elsevier.com/journal-of-structural-biology-x/rss
 https://www.journals.elsevier.com/journal-of-molecular-biology/rss
 https://www.journals.elsevier.com/ultramicroscopy/rss
 https://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=249&channel-name=European+Biophysics+Journal

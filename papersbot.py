@@ -47,7 +47,7 @@ regex = re.compile(r"""
     | single.particle.analysis
     | sub-?tomogram.averaging
     | relion3
-    | micro-?ED
+    | \b(micro-?ED|Micro-?ED|micro-electron.diffraction|microcrystal.electron.diffraction)\b
   )
   """, re.IGNORECASE | re.VERBOSE)
 
