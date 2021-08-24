@@ -1,5 +1,8 @@
 # cryoEM_PapersBot
 
+
+**DEPRECATED -** This repository is deprecated as of August 23rd, 2021. It has been replaced with [cryoEMpapersbot](https://github.com/fredericpoitevin/cryoEMpapersbot), which is directly forked from FX Coudert's [PapersBot](https://github.com/fxcoudert/PapersBot); something that I should have done in the first place...
+
 cryoEM_PapersBot is adapted from the [PapersBot](https://github.com/fxcoudert/PapersBot) academic Twitter bot developed by [@fxcoudert](https://twitter.com/fxcoudert), whose information is copied below.
 
 --- 
